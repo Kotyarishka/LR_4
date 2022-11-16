@@ -1,1 +1,2 @@
-
+# ignoring .txt files in repo
+*.txt
